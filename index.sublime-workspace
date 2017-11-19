@@ -1,0 +1,233 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"h",
+				"height\tAttr"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"f",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rohitdanda/Desktop/TressGraph/app/src/main/java/com/example/tressgraph/MainActivity.java",
+		"/Users/rohitdanda/Desktop/APps/old/invertedIndex.java",
+		"/Users/rohitdanda/Desktop/APps/Archive/src/br/com/kelsonmartins/VectorSpaceModel.java",
+		"/Users/rohitdanda/Desktop/APps/libstemmer_java/java/org/tartarus/snowball/TestApp.java",
+		"/Users/rohitdanda/Desktop/serverSrc/Board.java",
+		"/Users/rohitdanda/Desktop/nine-mens-morris-master/src/game/ninemensmorris/model/BoardState.java",
+		"/Users/rohitdanda/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/rohitdanda/Desktop/nine-mens-morris-master/src/game/ninemensmorris/gui/MoveExecutorCallback.java",
+		"/Users/rohitdanda/Desktop/AndroidStudioProjects/Todolist_trail1/app/src/main/java/com/example/rohitdanda/todolist_trail1/Custom_listview_arrayadapter.java",
+		"/Users/rohitdanda/Downloads/Outlook.com(1)/2882430_VenkataSaiRohitKumarDanda_Todo_List/app/src/main/java/com/example/rohitdanda/todolist_trail1/MainActivity.java",
+		"/Users/rohitdanda/Downloads/Outlook.com/2882430_VenkataSaiRohitKumarDanda_TodoList/2882430_VenkataSaiRohitKumarDanda_TodoList/app/src/main/java/com/example/rohitdanda/todolist_trail1/MainActivity.java",
+		"/Users/rohitdanda/Desktop/AndroidStudioProjects/Todolist_trail1/app/src/main/java/com/example/rohitdanda/todolist_trail1/MainActivity.java",
+		"/Users/rohitdanda/Downloads/Outlook.com/2882430_VenkataSaiRohitKumarDanda_TodoList/app/src/main/java/com/example/rohitdanda/todolist_trail1/MainActivity.java",
+		"/Users/rohitdanda/Desktop/untitled folder/Natural Profile & Login/Natural_Profile/app/src/main/res/layout/activity_main.xml",
+		"/Users/rohitdanda/AndroidStudioProjects/backup/Assignment01/app/src/main/java/com/example/rohitkumar/assignment01/MainActivity.java",
+		"/Users/rohitdanda/Desktop/hadoop-2.6.4-src/hadoop-yarn-project/hadoop-yarn/conf/yarn-site.xml",
+		"/Users/rohitdanda/Desktop/HTML Class/forms.html",
+		"/Users/rohitdanda/Desktop/HTML Class/tables.html",
+		"/Users/rohitdanda/Desktop/HTML Class/lists.html",
+		"/Users/rohitdanda/Desktop/HTML Class/links.html",
+		"/Users/rohitdanda/Desktop/HTML Class/moretags.html",
+		"/Users/rohitdanda/Desktop/HTML Class/fonts.html",
+		"/Users/rohitdanda/Desktop/HTML Class/style.html",
+		"/Users/rohitdanda/Desktop/HTML Class/header.html",
+		"/usr/local/Cellar/hadoop/2.7.2/libexec/etc/hadoop/yarn-site.xml",
+		"/usr/local/Cellar/hadoop/2.7.2/libexec/etc/hadoop/core-site.xml",
+		"/usr/local/Cellar/hadoop/2.7.2/libexec/etc/hadoop/mapred-site.xml",
+		"/usr/local/Cellar/hadoop/2.7.2/libexec/etc/hadoop/hdfs-site.xml",
+		"/usr/local/Cellar/hadoop/2.7.2/libexec/etc/hadoop/httpfs-env.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
