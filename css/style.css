@@ -511,7 +511,12 @@ header{
 	line-height:18px;
 	text-align:center;
 }
-
+.technical .skills img{
+	margin:0 auto;
+	margin-bottom:33px;
+	width:100%;
+	max-width:152px;
+}
 
 .technical .skills h4{
 	font-weight:700;
