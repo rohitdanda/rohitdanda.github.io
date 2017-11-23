@@ -167,6 +167,7 @@ header{
 }
 .bannerText h1{
 	text-transform:uppercase;
+	font-size: 70px;
 }
 .bannerText h2{
 	font-size:34px;
@@ -433,7 +434,7 @@ header{
 ------------------------------------------------------*/
 
 .aboutme{
-	background:#00bdbd;
+	background:#059994;
 	color:#fff;
 	position:relative;
 }
@@ -491,7 +492,7 @@ header{
 	color:#474d5d;
 }
 .technical h2{
-	color:#ff675f;
+	color:#059994;
 }
 
 .technical .skillsArea{
@@ -510,12 +511,7 @@ header{
 	line-height:18px;
 	text-align:center;
 }
-.technical .skills img{
-	margin:0 auto;
-	margin-bottom:33px;
-	width:100%;
-	max-width:152px;
-}
+
 
 .technical .skills h4{
 	font-weight:700;
@@ -525,6 +521,7 @@ header{
 
 .skilBg{
 	background:url("../images/skills.png") no-repeat 0 0;
+
 }
 
 
@@ -575,7 +572,7 @@ header{
 }
 
 .exprience h2{
-	color:#ff675f;
+	color:#059994;
 }
 .exprience p{
 	color:#84868d;
@@ -600,7 +597,7 @@ header{
 .workYear{
 	font-size:17px;
 	color:#fff;
-	background:#ff675f;
+	background:#059994;
 	text-align:center;
 	width:120px;
 	height:120px;
@@ -652,7 +649,7 @@ header{
 }
 
 .education h2{
-	color:#ff675f;
+	color:#059994;
 }
 .education p{
 	color:#84868d;
@@ -816,7 +813,7 @@ span.hoverBox .zoom{
 	visibility:hidden;
 	width:42px;
 	height:42px;
-	background:#ff675f;
+	background:#059994;
 	color:#fff;
 	position: relative;
 	left:-150%;
@@ -945,7 +942,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 }
 
 .contact h2{
-	color:#ff675f;
+	color:#059994;
 }
 .contact p{
 	color:#84868d;
@@ -1037,7 +1034,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 
 
 .conForm .submitBnt{
-	background:#ff675f;
+	background:#059994;
 	font-family: 'Open Sans', sans-serif;
 	color:#fff;
 	font-size:16px;
@@ -1061,7 +1058,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	font-weight: 500;
 }
 .error_message{
-	color: #ff675f;
+	color: #059994;
 	padding-bottom: 15px;
 	font-weight: 500;
 }
