@@ -434,7 +434,7 @@ header{
 ------------------------------------------------------*/
 
 .aboutme{
-	background:#059994;
+	background:#fa4545;
 	color:#fff;
 	position:relative;
 }
@@ -492,7 +492,7 @@ header{
 	color:#474d5d;
 }
 .technical h2{
-	color:#059994;
+	color:#fa4545;
 }
 
 .technical .skillsArea{
@@ -602,7 +602,7 @@ header{
 .workYear{
 	font-size:17px;
 	color:#fff;
-	background:#059994;
+	background:#fa4545;
 	text-align:center;
 	width:120px;
 	height:120px;
@@ -654,7 +654,7 @@ header{
 }
 
 .education h2{
-	color:#059994;
+	color:#fa4545;
 }
 .education p{
 	color:#84868d;
@@ -947,7 +947,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 }
 
 .contact h2{
-	color:#059994;
+	color:#fa4545;
 }
 .contact p{
 	color:#84868d;
@@ -1079,7 +1079,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
  12. Footer Style
 ------------------------------------------------------*/
 .footer{
-	background:#00bdbd;
+	background:#fa4545;
 }
 .footer .container{
 	padding:40px 0;
@@ -1111,7 +1111,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 }
 
 .footer ul li a{
-	color:#00bdbd;
+	color:#fa4545;
 	width:42px !important;
 	height:42px !important;
 }
